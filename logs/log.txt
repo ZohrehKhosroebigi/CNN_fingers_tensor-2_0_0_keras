@@ -1,0 +1,19 @@
+
+<-----2020-04-28 13:53:21.866985-----> 
+X_train_orig shape (1080, 64, 64, 3)
+Y_train_orig shape(1, 1080)
+X_test_orig shape(120, 64, 64, 3)
+Y_test_orig shape (1, 120)
+Classes is: [0 1 2 3 4 5]
+number of training examples= 1080
+number of test examples= 120
+X_train shape (1080, 64, 64, 3)
+Y_train shape(1080, 6)
+X_test shape(120, 64, 64, 3)
+Y_test shape (1080, 6)
+Classes is: [0 1 2 3 4 5]
+number of training examples= 1080
+number of test examples= 120
+number of classes=6
+Loss = 3.366875251134237
+Test Accuracy = 0.21666667
